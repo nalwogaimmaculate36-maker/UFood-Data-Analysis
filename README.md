@@ -2,7 +2,7 @@
 
 This project was built in response to the UFood Data Analysis Case, a simulated business challenge from UFood, Brazil's leading food delivery app.
 
-[View the full case PDF](./UFood_Data_Analyst_Case.pdf)
+[View the full case PDF](.pdf)
 
 The Challenge involved:
 - Exploring customer behavior and camapign reponse
